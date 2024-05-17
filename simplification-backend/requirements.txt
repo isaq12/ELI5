@@ -1,0 +1,4 @@
+python==3.9.7
+Flask==2.0.1
+Flask-Cors==3.0.10
+openai==0.10.2
