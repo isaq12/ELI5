@@ -63,7 +63,7 @@ Welcome to the ELI5 repository! 🎉 This project leverages the power of GPT-3.5
 
 3. **Open your browser** and navigate to `http://localhost:3000` to see the application in action.
 
-## 🎥 Demo
+## 🎥 Playful User Interface
 
 ![ELI5 Working](https://github.com/isaq12/ELI5/blob/master/simplification-frontend/ELI5.gif)
 
