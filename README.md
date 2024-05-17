@@ -21,8 +21,8 @@ Welcome to the ELI5 repository! 🎉 This project leverages the power of GPT-3.5
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/isaq12/eli5.git
-    cd eli5
+    git clone https://github.com/isaq12/ELI5.git
+    cd ELI5
     ```
 
 2. **Install frontend dependencies**:
